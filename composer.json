@@ -12,7 +12,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.0",
-        "composer-plugin-api": "^1.0"
+        "composer-plugin-api": "^2.3.0"
     },
     "require-dev": {
         "composer/composer": "~1.1",
